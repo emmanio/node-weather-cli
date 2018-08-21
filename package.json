@@ -1,0 +1,16 @@
+{
+  "name": "node-weather-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+    "start": "node index",
+    "select": "node index -c"
+  },
+  "repository": "https://github.com/emmanio/node-weather-cli.git",
+  "author": "emma-nio <emmanioashley@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^12.0.1"
+  }
+}
