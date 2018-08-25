@@ -2,7 +2,7 @@
 
 A command-line based Node.js weather app using OpenWeatherMap.org API 
 
-Dependencies - request and yargs
+Dependencies
 
 Request: https://www.npmjs.com/package/request
 
