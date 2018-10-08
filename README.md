@@ -2,7 +2,7 @@
 
 A command-line based Node.js weather app using OpenWeatherMap.org API 
 
-How to use:
+**How to use this repo:**
 
 clone this repo
 
